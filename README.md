@@ -4,7 +4,10 @@ A fast, easy to setup telegram userbot running Python 3 which uses the [Telethon
 Friendly Telegram, also known as FTG, is not your average Telegram userbot: it's faster, can load modules dynamically and is very easy to use!
 
 # Important 
-This is  not my work instead i have just ported the original work from [here](https://gitlab.com/friendly-telegram/friendly-telegram "Original repo") for it to work [here](https://github.com/IMMANUEL44/workflows/tree/userbot "Workflow")
+- This is  not my work instead i have just ported the original work from [here](https://gitlab.com/friendly-telegram/friendly-telegram "Original repo") for it to work [here](https://github.com/IMMANUEL44/workflows/tree/userbot "Workflow")
+- Use this at your own risk this is meant for debugging purposes only and not to exploit anyhting
+- I dont take any responsibility for any damaged caused by this for anyreason it is upto you to use this 
+- Incase of any DMCA please open a issue and i will close this repo
 
 ### Setup (With/For github)
 - First of all clone this repo and push it to your private repo
